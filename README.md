@@ -12,7 +12,7 @@ As sexual harassment gains increased visibility, more individuals are bravely sh
 The current process for reporting incidents of sexual harassment is often burdensome for victims, requiring manual detailing of occurrences and filling out multiple forms. Readers also face challenges in processing detailed narratives, leading to information overload and difficulty in quickly understanding the nature and severity of incidents. Additionally, existing methods for processing reports may lack effectiveness in categorizing and prioritizing incidents based on severity, resulting in delays in interventions.
 
 ## Solution
-The implemented model uses NLP techniques to analyze textual descriptions of incidents, focusing on categories such as commenting, ogling/facial expressions/staring, and touching/groping. By automating the categorization process, victims can report incidents more efficiently, and readers can quickly grasp the severity of each incident. The model prioritizes incidents based on their severity, enabling timely and targeted interventions.
+The implemented model uses NLP techniques to analyze textual descriptions of incidents, focusing on categories such as commenting, ogling/facial expressions/staring, and touching/groping. By automating the categorization process, victims can report incidents more efficiently, and readers can quickly grasp the severity of each incident. 
 
 ## Requirements
 Ensure that you have the required libraries installed before running the code. You can install them using the following commands:
