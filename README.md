@@ -54,4 +54,4 @@ pip install nltk scikit-learn tensorflow keras lime
 - `explanations.csv`: CSV file containing explanations for the first 100 entries in the test dataset.
 
 ## Video Demo
-- Watch the video demo [here](https://drive.google.com/file/d/1MzNhxBlghG16tPPUsoY51ZmP617dnMGu/view?usp=sharing)
+- Watch the video demo [here](https://drive.google.com/file/d/17A-nce5kFf_XfWoZKCBQrg7PK9CRJMAV/view?usp=sharing)
