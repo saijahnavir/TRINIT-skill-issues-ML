@@ -52,3 +52,6 @@ pip install nltk scikit-learn tensorflow keras lime
 - `ML02.py`: Python script containing the model training, evaluation, and prediction code.
 - `predictions.csv`: CSV file containing the model predictions on the test dataset.
 - `explanations.csv`: CSV file containing explanations for the first 100 entries in the test dataset.
+
+## Video Demo
+- Watch the video demo [here](https://drive.google.com/file/d/1RDImoaXkdj7S2NmGvdZeOqw5cAnmwhTb/view?usp=drivesdk)
